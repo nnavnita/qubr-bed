@@ -1,0 +1,12 @@
+{
+  "name": "qubr-bed",
+  "version": "1.0.0",
+  "description": "Qubr.io backend",
+  "main": "index.js",
+  "repository": "https://github.com/nnavnita/qubr-bed.git",
+  "author": "nnavnita <navnitanandakumar@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "algosdk": "^1.16.0"
+  }
+}

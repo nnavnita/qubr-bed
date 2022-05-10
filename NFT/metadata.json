@@ -1,10 +1,10 @@
 {
     "name": "PIKACHU",
-    "description": "Pikachu's Artwork Coins",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "description": "Pikachu",
+    "image": "https://raw.githubusercontent.com/nnavnita/qubr-bed/main/pikachu-nft.png?token=GHSAT0AAAAAABT4CXGHIP5D5J6WSFXOX47EYT2TGKA",
     "image_integrity": "sha256-7ew0eziEZIVD4qoTWb0YrElAuRG3b40SnEstyk=",
     "properties": {
-        "simple_property": "Pikachu's first artwork",
+        "simple_property": "Pikachu",
         "rich_property": {
             "name": "Pikachu",
             "value": "001",
